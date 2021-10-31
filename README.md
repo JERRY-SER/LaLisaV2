@@ -5,11 +5,11 @@
 <a href="#"><img title="LaLisa" src="https://img.shields.io/badge/Lisa-Red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/warioo/Paruz"><img title="Author" src="https://img.shields.io/badge/Author-paruzz/Paathu?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/JERRY-SER/LaLisaV2"><img title="Author" src="https://img.shields.io/badge/Author-Lisa/Paathu?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/warioo/Paruz">paruzz</a> to make it public
+Project created by <a href="https://github.com/JERRY-SER/LaLisaV2">Lisa</a> to make it public
     <br>
        | © |
         Reserved |
