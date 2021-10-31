@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/JERRY-SER/LaLisaV2">Lisa</a> to m
 ----
 
   <p align="center">
-  <a href="https://github.com/warioo/Paruz">
+  <a href="https://github.com/JERRY-SER/LaLisaV2">
     <img src="https://img.shields.io/github/repo-size/Fasil-vkn/Paathu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Fasil-vkn/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fasil-vkn?color=blue&style=flat-square"></a>
@@ -55,7 +55,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Fasil-vkn/Paathu
+$ git clone https://github.com/JERRY-SER/LaLisaV2
 $ cd Paathu 
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -65,8 +65,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Fasil-vkn/Paathu
-$ cd Paathu
+$ git clone https://github.com/JERRY-SER/LaLisaV2
+$ cd LaLisa
 $ chmod +x *
 $ npm i
 $ node qr.js
